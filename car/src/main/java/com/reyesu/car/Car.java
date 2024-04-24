@@ -1,4 +1,4 @@
-package com.velasco.car;
+package com.reyesu.car;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
